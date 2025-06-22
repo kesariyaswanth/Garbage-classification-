@@ -1,0 +1,17 @@
+1 | Setup and Initialization
+Step 2 | Dataset Analysis
+Step 3 | Dataset Preparation
+Step 3.1 | Centralize Dataset Information
+Step 3.2 | Stratified Data Splitting: Train & Validation
+Step 3.3 | Data Augmentation & Rescaling
+Step 3.4 | Generating Batches of Images
+Step 4 | Addressing Dataset Imbalances
+Step 5 | ResNet50 Built from Scratch
+Step 5.1 | Defining the ResNet50 Architecture from Scratch
+Step 5.2 | Training the Defined ResNet50 Model
+Step 5.3 | Evaluating the Defined ResNet50 Model
+Step 6 | ResNet50 with Transfer Learning
+Step 6.1 | Loading ResNet50 with Pre-trained Weights
+Step 6.2 | Applying ResNet50-specific Image Preprocessing
+Step 6.3 | Fine-tuning the Transfer Learning ResNet50 Model
+Step 6.4 | Evaluating the Transfer Learning ResNet50 Model
